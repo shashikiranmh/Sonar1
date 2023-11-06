@@ -1,1 +1,1 @@
-# Sonar1
+# SonarQube-code-analysis-for-maven
